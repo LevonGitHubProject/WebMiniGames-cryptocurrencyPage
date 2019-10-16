@@ -1,0 +1,225 @@
+{
+    "fruit": [
+        "apple",
+        "pear",
+        "apple",
+        "pineapple",
+        "watermelon",
+        "grape",
+        "apple",
+        "lime",
+        "pineapple",
+        "lime",
+        "watermelon",
+        "pineapple",
+        "grape",
+        "watermelon",
+        "pear",
+        "grape",
+        "lime",
+        "pear",
+        "pineapple",
+        "watermelon",
+        "apple",
+        "lime",
+        "grape",
+        "pear",
+        "apple"
+    ],
+    "images": [
+        {
+            "id": 1,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 2,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 3,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 4,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 5,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 6,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 7,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 8,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 9,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 10,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 11,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 12,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 13,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 14,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 15,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 16,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 17,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 18,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 19,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 20,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 21,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 22,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 23,
+            "image": "./assets/qw.jpeg"
+        },
+        {
+            "id": 24,
+            "image": "./assets/qw.jpeg"
+        }
+    ],
+    "pictures": [
+        {
+            "id": 1,
+            "image": "./assets/lime.jpeg"
+        },
+        {
+            "id": 2,
+            "image": "./assets/watermelon.jpeg"
+        },
+        {
+            "id": 3,
+            "image": "./assets/lime.jpeg"
+        },
+        {
+            "id": 4,
+            "image": "./assets/watermelon.jpeg"
+        },
+        {
+            "id": 5,
+            "image": "./assets/apple.jpeg"
+        },
+        {
+            "id": 6,
+            "image": "./assets/grape.jpeg"
+        },
+        {
+            "id": 7,
+            "image": "./assets/pear.jpeg"
+        },
+        {
+            "id": 8,
+            "image": "./assets/pineapple.jpeg"
+        },
+        {
+            "id": 9,
+            "image": "./assets/apple.jpeg"
+        },
+        {
+            "id": 10,
+            "image": "./assets/grape.jpeg"
+        },
+        {
+            "id": 11,
+            "image": "./assets/lime.jpeg"
+        },
+        {
+            "id": 12,
+            "image": "./assets/pineapple.jpeg"
+        },
+        {
+            "id": 13,
+            "image": "./assets/watermelon.jpeg"
+        },
+        {
+            "id": 14,
+            "image": "./assets/lime.jpeg"
+        },
+        {
+            "id": 15,
+            "image": "./assets/pear.jpeg"
+        },
+        {
+            "id": 16,
+            "image": "./assets/apple.jpeg"
+        },
+        {
+            "id": 17,
+            "image": "./assets/pear.jpeg"
+        },
+        {
+            "id": 18,
+            "image": "./assets/watermelon.jpeg"
+        },
+        {
+            "id": 19,
+            "image": "./assets/grape.jpeg"
+        },
+        {
+            "id": 20,
+            "image": "./assets/pineapple.jpeg"
+        },
+        {
+            "id": 21,
+            "image": "./assets/apple.jpeg"
+        },
+        {
+            "id": 22,
+            "image": "./assets/pineapple.jpeg"
+        },
+        {
+            "id": 23,
+            "image": "./assets/pear.jpeg"
+        },
+        {
+            "id": 24,
+            "image": "./assets/grape.jpeg"
+        }
+    ]
+}

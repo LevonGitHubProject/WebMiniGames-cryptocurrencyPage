@@ -1,0 +1,16 @@
+{
+    "questions": [
+        "What the capital of Frans ?",
+        "Which team is playing Neymar ?",
+        "In which movie did Keanu Reeves play ?",
+        "How many times did Brazil become a world football champion ?",
+        "What is the longest bridge in the world ?"
+      ],
+      "answers": [
+        ["Itali", "Paris", "Lion", "Nicca"],
+        ["Manchestor City", "Barselona", "Manchester United", "PSG"],
+        ["Devils Advocate", "Good Guys", "Right to kill", "Score Face"],
+        ["2", "4", "6", "1"],
+        ["Tyvan", "China", "Tyland", "USA"]
+      ]
+}

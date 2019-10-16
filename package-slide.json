@@ -1,0 +1,36 @@
+{
+    "slideImages": [
+        {
+            "id": 1,
+            "image": "slide-images/1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "slide-images/6.jpg"
+        },
+        {
+            "id": 3,
+            "image": "slide-images/2.jpg"
+        },
+        {
+            "id": 4,
+            "image": "slide-images/1.png"
+        },
+        {
+            "id": 5,
+            "image": "slide-images/3.jpg"
+        },
+        {
+            "id": 6,
+            "image": "slide-images/4.jpg"
+        },
+        {
+            "id": 7,
+            "image": "slide-images/5.jpg"
+        },
+        {
+            "id": 8,
+            "image": "slide-images/questions.jpg"
+        }
+    ]
+}

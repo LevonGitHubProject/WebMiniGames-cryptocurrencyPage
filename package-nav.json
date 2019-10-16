@@ -1,0 +1,78 @@
+{
+    "navList": [
+        {
+            "id": 1,
+            "list": "CryptoCurrencies",
+             "href": "http://localhost:8080/#/list"
+        },
+        {
+            "id": 2,
+            "list": "Best of 2018",
+             "href": ""
+        },
+        {
+            "id": 3,
+            "list": "Boy Games",
+             "href": ""
+        },
+        {
+            "id": 4,
+            "list": "Flash Games",
+             "href": ""
+        },
+        {
+            "id": 5,
+            "list": "Girls Games",
+             "href": ""
+        },
+        {
+            "id": 6,
+            "list": "Mobile Games",
+             "href": ""
+        },
+        {
+            "id": 7,
+            "list": "Multiplayer Games",
+             "href": ""
+        },
+        {
+            "id": 8,
+            "list": "Puzzle Games",
+             "href": ""
+        },
+        {
+            "id": 9,
+            "list": "Racing Games",
+             "href": ""
+        },
+        {
+            "id": 10,
+            "list": "Simulation Games",
+             "href": ""
+        },
+        {
+            "id": 11,
+            "list": "One player Games",
+             "href": ""
+        },
+        {
+            "id": 12,
+            "list": "Skill Games",
+             "href": ""
+        },
+        {
+            "id": 13,
+            "list": "Top 100 Games",
+             "href": ""
+        },
+        {
+            "id": 14,
+            "list": "Try Now",
+             "href": ""
+        },
+        {
+            "id": 15,
+            "list": "WebGL"
+        }
+    ]
+}
